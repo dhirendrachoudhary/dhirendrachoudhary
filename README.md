@@ -109,10 +109,10 @@ Here's a snapshot of the technologies and tools I work with:
 ### Senior Data Scientist @ TARGET (Bengaluru, India)
 *(08/2026 - Present)*
 
-### MPHASIS
+### AI Engineer @ MPHASIS
 *(08/2025 - 08/2026)*
 
-### Lead ML Engineer @ ZYCUS INFOTECH (Bengaluru, India)
+### ML Engineer @ ZYCUS INFOTECH (Bengaluru, India)
 *(09/2023 - 08/2025)*
 * Architected & Productionized end-to-end **LLM pipelines (GPT-4/3, LangChain)** for automated invoice data extraction (97% accuracy).
 * Engineered & Deployed scalable **RAG systems** using Knowledge Graphs (Neo4j) and Vector DBs (Pinecone, FAISS) on AWS, improving semantic search by 20%.
