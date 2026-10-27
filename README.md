@@ -9,18 +9,16 @@
   </a>
   </p>
 
-I'm a Lead ML Engineer with a passion for architecting and productionizing cutting-edge AI solutions, especially in Generative AI, LLMs, NLP, and Computer Vision. I thrive on solving complex problems and driving innovation from proof-of-concept to deployment.
-
-Currently, I'm also pursuing a **Ph.D. in Data Science and Artificial Intelligence** at IIIT Bangalore, focusing on Advanced LLM applications, multimodal LLMs.
+I'm a Senior Data Scientist at Target, building and shipping AI solutions, especially in Generative AI, LLMs, NLP, and Computer Vision. I prefer practical engineering over theory: I start from the business problem and care about getting a working system into production and measuring what it changes.
 
 ---
 
 ## 🚀 What I'm Currently Focused On
 
-* Leading ML initiatives at **Zycus Infotech**, focusing on LLM pipelines, RAG systems, and multi-agent solutions for the procurement domain.
-* Deep diving into advanced fine-tuning techniques (PEFT, LoRA, Quantization) for models like LLaMA 3.
+* Working as a **Senior Data Scientist at Target** (since August 2026), applying data science and ML to real business problems.
+* Practical fine-tuning (PEFT, LoRA, Quantization) for models like LLaMA 3.
 * Building robust MLOps workflows for efficient model deployment and monitoring.
-* My Ph.D. research at **IIIT Bangalore**.
+* Exploring RAG and multi-agent systems, and where they pay off in production.
 
 ---
 
@@ -108,8 +106,11 @@ Here's a snapshot of the technologies and tools I work with:
 
 ## 💼 Professional Experience
 
+### Senior Data Scientist @ TARGET (Bengaluru, India)
+*(08/2026 - Present)*
+
 ### Lead ML Engineer @ ZYCUS INFOTECH (Bengaluru, India)
-*(09/2023 - Present)*
+*(09/2023 - 07/2026)*
 * Architected & Productionized end-to-end **LLM pipelines (GPT-4/3, LangChain)** for automated invoice data extraction (97% accuracy).
 * Engineered & Deployed scalable **RAG systems** using Knowledge Graphs (Neo4j) and Vector DBs (Pinecone, FAISS) on AWS, improving semantic search by 20%.
 * Executed advanced fine-tuning **(PEFT, LoRA, Quantization) on LLaMA 3 models**.
@@ -132,9 +133,6 @@ Here's a snapshot of the technologies and tools I work with:
 
 ## 🎓 Education
 
-* **Ph.D. in Data Science and Artificial Intelligence** (Part-time)
-    * INTERNATIONAL INSTITUTE OF INFORMATION TECHNOLOGY BANGALORE (IIITB), India
-    * *2024 - Current*
 * **Master of Science in Computer Science (Major: Data Science)**
     * CHRIST UNIVERSITY, Bangalore, India
     * *2020 - 2022*
@@ -148,14 +146,8 @@ Here's a snapshot of the technologies and tools I work with:
 
 * **Sign Language Recognition System:**
     * Published in: *Proceedings of the International Conference on Innovative Computing & Communication (ICICC) 2021* (April 22, 2021).
-    * 🔗 [Link to Publication - *You'll need to find and add the actual URL or DOI link*]
 * **Mental Workload Estimation Using EEG:**
     * Published in: *2020 Fifth International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN)*, Bangalore, India, 2020.
-    * 🔗 [Link to Publication - *You'll need to find and add the actual URL or DOI link, e.g., IEEE Xplore link*]
-
----
-
-## 📊 GitHub Stats
 
 ---
 
