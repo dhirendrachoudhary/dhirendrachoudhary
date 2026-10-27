@@ -109,8 +109,11 @@ Here's a snapshot of the technologies and tools I work with:
 ### Senior Data Scientist @ TARGET (Bengaluru, India)
 *(08/2026 - Present)*
 
+### MPHASIS
+*(08/2025 - 08/2026)*
+
 ### Lead ML Engineer @ ZYCUS INFOTECH (Bengaluru, India)
-*(09/2023 - 07/2026)*
+*(09/2023 - 08/2025)*
 * Architected & Productionized end-to-end **LLM pipelines (GPT-4/3, LangChain)** for automated invoice data extraction (97% accuracy).
 * Engineered & Deployed scalable **RAG systems** using Knowledge Graphs (Neo4j) and Vector DBs (Pinecone, FAISS) on AWS, improving semantic search by 20%.
 * Executed advanced fine-tuning **(PEFT, LoRA, Quantization) on LLaMA 3 models**.
@@ -119,7 +122,7 @@ Here's a snapshot of the technologies and tools I work with:
 * Exploring around **multi-agent system POC (AutoGen)** for procurement.
 
 ### Data Scientist @ IHX PRIVATE LIMITED (Bengaluru, India)
-*(04/2022 - 09/2023)*
+*(04/2022 - 08/2023)*
 * Helped in building Discharge Summary Digitizer, fine-tuning a **clinical NER model (Transformers)** to 94% accuracy, reducing manual review by 35%.
 * Developed an innovative **multimodal model (LayoutLMv2, CV)** for Lab Report Digitization.
 * Optimized document classification (+28%) via fine-tuning **Faster R-CNN/YOLO** models.
